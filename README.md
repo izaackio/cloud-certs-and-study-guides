@@ -2,6 +2,8 @@
 
 ## Cloud Architect:
 * https://antonit.medium.com/my-review-of-the-google-cloud-professional-cloud-architect-beta-exam-62ab6ebd692c
+* https://medium.com/startcloudnow/google-cloud-professional-cloud-architect-exam-prep-sheet-v2-new-exam-e826283f1e3f
+* https://sarahchua-sg.medium.com/getting-certified-as-a-google-cloud-professional-cloud-architect-2021-4fa51e90021d
 
 ## Data Engineer
 
