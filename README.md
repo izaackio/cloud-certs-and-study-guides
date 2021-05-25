@@ -1,4 +1,4 @@
-# cloud-knowledge-and-study-guides
+# Cloud Certifications and Study Guides
 
 ## Cloud Architect:
 * https://antonit.medium.com/my-review-of-the-google-cloud-professional-cloud-architect-beta-exam-62ab6ebd692c
