@@ -6,6 +6,7 @@
 * https://sarahchua-sg.medium.com/getting-certified-as-a-google-cloud-professional-cloud-architect-2021-4fa51e90021d
 
 ## Data Engineer
+* https://sreecharanreddy94.medium.com/how-i-cleared-google-cloud-professional-data-engineer-certification-in-2021-ef495cf8a3df
 
 ## Machine-Learning Engineer:
 * https://irahulpandey.medium.com/study-guide-to-ace-google-cloud-certification-on-professional-machine-learning-engineer-2d6a05f9fbba
