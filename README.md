@@ -19,6 +19,7 @@
 ## Digital Leader
 * https://old.reddit.com/r/googlecloud/comments/n97d2s/my_review_on_the_cloud_digital_leader_beta_exam/
 * https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e
+* https://sathishvj.medium.com/cloud-terminologies-videos-for-gcp-and-cloud-digital-leader-playlist-36c230a30a30
 
 ## Anthos / Multi-Cloud
 * https://cloud.google.com/blog/topics/anthos/anthos-101-learning-series-all-the-videos-in-one-place?utm_campaign=60abd07c9dd8cd00014aaab3&utm_content=60b6e8cfa12bd9000197ac85&utm_medium=smarpshare&utm_source=linkedin&utm_term=-
