@@ -19,9 +19,10 @@
 
 ## Digital Leader
 * https://cloud.google.com/training/business#cloud-digital-leader-path - Recommended study path from Google - 4 Courses available on Coursera and Pluralsight
-* https://old.reddit.com/r/googlecloud/comments/n97d2s/my_review_on_the_cloud_digital_leader_beta_exam/
-* https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e
-* https://sathishvj.medium.com/cloud-terminologies-videos-for-gcp-and-cloud-digital-leader-playlist-36c230a30a30
+* https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/ - Review of the Cloud Digital Leader Exam
+* https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/ - Review of the Cloud Digital Leader Exam
+* https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e - Notes from the Cloud Digital Leader Exam
+* https://sathishvj.medium.com/cloud-terminologies-videos-for-gcp-and-cloud-digital-leader-playlist-36c230a30a30 - Cloud Digital Leader Exam Playlist
 * https://www.youtube.com/watch?v=UGRDM86MBIQ - Cloud Digital Leader Exam Course - 6hr video
 
 ## Anthos / Multi-Cloud
