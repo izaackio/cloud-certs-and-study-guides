@@ -25,5 +25,8 @@
 * https://sathishvj.medium.com/cloud-terminologies-videos-for-gcp-and-cloud-digital-leader-playlist-36c230a30a30 - Cloud Digital Leader Exam Playlist
 * https://www.youtube.com/watch?v=UGRDM86MBIQ - Cloud Digital Leader Exam Course - 6hr video
 
+Sample Questions:
+* https://docs.google.com/forms/d/e/1FAIpQLSfsSfkh9PE-HjdRRzJ24wPSjZrXF3gLxmncAYx31gyz2rLbtw/viewform
+
 ## Anthos / Multi-Cloud
 * https://cloud.google.com/blog/topics/anthos/anthos-101-learning-series-all-the-videos-in-one-place?utm_campaign=60abd07c9dd8cd00014aaab3&utm_content=60b6e8cfa12bd9000197ac85&utm_medium=smarpshare&utm_source=linkedin&utm_term=-
