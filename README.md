@@ -13,7 +13,7 @@
 * https://sathishvj.medium.com/notes-from-my-google-cloud-professional-machine-learning-engineer-certification-exam-2110998db0f5
 * https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5
 * https://www.youtube.com/watch?v=pIzX7wk56iA
-* https://www.coursera.org/specializations/hands-on-machine-learning?utm_source=googlecloud&utm_medium=institutions&utm_campaign=ML_Aug21_newsletter - Hands-On Machine-Learning Course
+* https://www.coursera.org/specializations/hands-on-machine-learning - Hands-On Machine-Learning Course
 
 ## DevOps Engineer
 
