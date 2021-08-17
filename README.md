@@ -14,6 +14,7 @@
 * https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5
 * https://www.youtube.com/watch?v=pIzX7wk56iA
 * https://www.coursera.org/specializations/hands-on-machine-learning - Hands-On Machine-Learning Course
+* https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud - Digital Transformation using AI/ML with GCP
 
 ## DevOps Engineer
 
