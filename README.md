@@ -19,6 +19,7 @@
 ## DevOps Engineer
 
 ## Digital Leader
+* https://cloud.google.com/certification/guides/cloud-digital-leader - Cloud Digital Leader Certification Overview
 * https://cloud.google.com/training/business#cloud-digital-leader-path - Recommended study path from Google - 4 Courses available on Coursera and Pluralsight
 * https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/ - Review of the Cloud Digital Leader Exam
 * https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/ - Review of the Cloud Digital Leader Exam
@@ -31,3 +32,9 @@ Sample Questions:
 
 ## Anthos / Multi-Cloud
 * https://cloud.google.com/blog/topics/anthos/anthos-101-learning-series-all-the-videos-in-one-place?utm_campaign=60abd07c9dd8cd00014aaab3&utm_content=60b6e8cfa12bd9000197ac85&utm_medium=smarpshare&utm_source=linkedin&utm_term=-
+
+## Looker Business Analyst
+* https://cloud.google.com/certification/looker-ba - Looker BA Certification Overview
+
+## Looker LookML Developer
+* https://cloud.google.com/certification/lookml-developer - LookML Developer Certification Overview
