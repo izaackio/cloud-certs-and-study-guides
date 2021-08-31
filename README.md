@@ -27,6 +27,7 @@
 * https://sathishvj.medium.com/cloud-terminologies-videos-for-gcp-and-cloud-digital-leader-playlist-36c230a30a30 - Cloud Digital Leader Exam Playlist
 * https://www.youtube.com/watch?v=UGRDM86MBIQ - Cloud Digital Leader Exam Course - 6hr video
 * https://cloud.google.com/adoption-framework - Cloud Adoption Framework
+* https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations - Best-practices for Enterprise Organizations
 
 Sample Questions:
 * https://docs.google.com/forms/d/e/1FAIpQLSfsSfkh9PE-HjdRRzJ24wPSjZrXF3gLxmncAYx31gyz2rLbtw/viewform
