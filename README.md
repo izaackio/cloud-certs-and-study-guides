@@ -7,6 +7,7 @@
 
 ## Data Engineer
 * https://sreecharanreddy94.medium.com/how-i-cleared-google-cloud-professional-data-engineer-certification-in-2021-ef495cf8a3df
+* https://cloud.google.com/training/data-engineering-and-analytics#data-analyst-learning-path - Data Engineering & Analytics Learning Paths
 
 ## Machine-Learning Engineer:
 * https://irahulpandey.medium.com/study-guide-to-ace-google-cloud-certification-on-professional-machine-learning-engineer-2d6a05f9fbba
