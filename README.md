@@ -11,12 +11,16 @@
 * https://cloud.google.com/training/data-engineering-and-analytics#data-analyst-learning-path - Data Engineering & Analytics Learning Paths
 
 ## Machine-Learning Engineer:
+* https://cloud.google.com/certification/machine-learning-engineer - Machine-Learning Engineer Certification overview
+* https://cloud.google.com/certification/guides/machine-learning-engineer/ - ML Engineer Certification Exam guide - NOTE NEW REQS WITH VERTEX AI FROM 22nd FEBRUARY!
 * https://irahulpandey.medium.com/study-guide-to-ace-google-cloud-certification-on-professional-machine-learning-engineer-2d6a05f9fbba
 * https://sathishvj.medium.com/notes-from-my-google-cloud-professional-machine-learning-engineer-certification-exam-2110998db0f5
 * https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5
-* https://www.youtube.com/watch?v=pIzX7wk56iA
+* https://www.youtube.com/watch?v=pIzX7wk56iA - GCP ML Certification overview
 * https://www.coursera.org/specializations/hands-on-machine-learning - Hands-On Machine-Learning Course
 * https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud - Digital Transformation using AI/ML with GCP
+* https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf - ML Engineer Study Guide
+* 
 
 ## DevOps Engineer
 
