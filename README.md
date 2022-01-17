@@ -5,6 +5,7 @@
 * https://medium.com/startcloudnow/google-cloud-professional-cloud-architect-exam-prep-sheet-v2-new-exam-e826283f1e3f
 * https://sarahchua-sg.medium.com/getting-certified-as-a-google-cloud-professional-cloud-architect-2021-4fa51e90021d
 * https://medium.com/@barcern/preparing-for-google-cloud-professional-cloud-architect-exam-new-curriculum-december-2021-deb57c4ed615
+* https://alex-g.medium.com/google-cloud-professional-cloud-architect-exam-guide-2efdd2541a91
 
 ## Data Engineer
 * https://sreecharanreddy94.medium.com/how-i-cleared-google-cloud-professional-data-engineer-certification-in-2021-ef495cf8a3df
