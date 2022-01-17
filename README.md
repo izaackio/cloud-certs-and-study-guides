@@ -22,6 +22,7 @@
 * https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud - Digital Transformation using AI/ML with GCP
 * https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf - ML Engineer Study Guide
 * https://medium.com/google-cloud/an-agile-architecture-for-analytics-and-ai-on-google-cloud-6415e692591f - AI Architectures on GCP
+* https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f - ML Engineer preparations
 * 
 
 ## DevOps Engineer
