@@ -20,6 +20,7 @@
 * https://www.coursera.org/specializations/hands-on-machine-learning - Hands-On Machine-Learning Course
 * https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud - Digital Transformation using AI/ML with GCP
 * https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf - ML Engineer Study Guide
+* https://medium.com/google-cloud/an-agile-architecture-for-analytics-and-ai-on-google-cloud-6415e692591f - AI Architectures on GCP
 * 
 
 ## DevOps Engineer
